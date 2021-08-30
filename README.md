@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loganjensen
-- 👀 I’m interested in becoming a cloud application developer!
-- 🌱 I’m currently learning Google Cloud and AWS!
+- 👀 Interested in all things cloud!
+- 🌱 I’m currently learning AWS.
 - 📫 How to reach me: logan.neil.jensen@gmail.com
 
 <!---
