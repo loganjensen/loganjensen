@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @loganjensen
-- 👀 Interested in all things cloud!
 - 📫 How to reach me: logan.neil.jensen@gmail.com
 
 <!---
